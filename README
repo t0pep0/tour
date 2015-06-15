@@ -1,3 +1,17 @@
+### Статус перевода
+
+[] `static/js/values.js`
+[] `content/basics.article`
+[] `content/concurrency.article`
+[] `content/flowcontrol.article`
+[] `content/methods.article`
+[] `content/moretypes.article`
+[] `content/welcome.article`
+
+(при желании можно пометить, что перевод в процессе).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 This is Go Tour, an introduction to the Go programming language.
 
 To install the tour locally, first install Go, then run:
