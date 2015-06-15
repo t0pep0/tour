@@ -4,7 +4,7 @@
 [] `content/basics.article`
 [] `content/concurrency.article`
 [] `content/flowcontrol.article`
-[] `content/methods.article`
+[xlab] `content/methods.article`
 [] `content/moretypes.article`
 [] `content/welcome.article`
 
